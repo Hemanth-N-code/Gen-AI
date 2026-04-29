@@ -1,0 +1,6 @@
+outs:
+- md5: b51bff56b729da245399111861e10b4c.dir
+  size: 149270015
+  nfiles: 6757
+  hash: md5
+  path: sketches
